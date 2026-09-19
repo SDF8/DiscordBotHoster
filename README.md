@@ -2,7 +2,7 @@
 
 A modern, desktop application for writing, hosting, running, and monitoring Discord bots. Built with Python and `customtkinter`, it bundles a code editor, a live log console, a process manager with automatic crash recovery, a library manager, and deep UI customization - all in one window.
 
-![App tabs](docs/screenshot.png)
+![App tabs](screenshot.png)
 
 
 ## Features
